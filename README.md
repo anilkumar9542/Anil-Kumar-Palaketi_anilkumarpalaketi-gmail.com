@@ -14,7 +14,7 @@
 ![Screenshot 2025-03-31 100636](https://github.com/user-attachments/assets/9da0a6e1-9be4-4fa3-ac27-87ef09dc8c2b)
 
 
-After successfull post
+**After successfull post**
 
 ![Screenshot 2025-03-31 100713](https://github.com/user-attachments/assets/50a07e67-ca8f-4c7e-bd81-8ce9e9630796)
 
