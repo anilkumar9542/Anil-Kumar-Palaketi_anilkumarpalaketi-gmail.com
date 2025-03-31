@@ -1,4 +1,31 @@
-# Pinggy-Assignment
+# Pinggy-Assignment ( Anil Kumar Palaketi , +91 9542886381, anilkumarpalaketi@gmail.com)
+
+
+**Software Requirements**
+
+Spring Boot 3.4.4,
+Java 24,
+Next.js 15.2.4,
+
+Other libraries used - Material UI
+
+**How To run the application**
+
+**steps to run backend in VSCode Editor**
+
+1. install necessary extensions ( Extension Pack for Java, Spring Boot Extension Pack)
+open terminal in vscode and change path to corresponding backend directory and run following command
+
+ **./mvnw spring-boot:run**
+
+**steps to run frontend in VSCode Editor**
+
+1. After sucessfull creation of next.js application open terminal and change path to corresponding directory and run following command
+
+   **npm run dev**
+
+open browser and run url http://localhost:3000/ 
+That's it you can see output
 
 **When no posts are avialable**
 
